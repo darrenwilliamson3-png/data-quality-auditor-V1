@@ -1,0 +1,11 @@
+id,email,age,country,signup_date
+123,user@example.com,29,UNITED KINGDOM,01/10/2025
+148,sue@anywhere.com,twenty,UK,
+98,daz.nowhere.com,43,SPAIN,15/02/2026
+72,mark@somewhere.com,38,USA,30/04/2023
+,paula@home.net,41,null,14/12/2025
+167,mary@holiday.com,50,IRELAND,24/09/2025
+87,johnatmail.com,19,uk,15/11/2025
+65,,uk,20,16/08/2022
+33,neil@mail.com,34,UK,25/06/2024
+105,amy@gmail.com,18,UK,2025-10-0+6
